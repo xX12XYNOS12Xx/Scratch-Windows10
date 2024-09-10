@@ -1,1 +1,1 @@
-Hi!😃, Welcome to my Windows 10 Scratch Respitory, there will be changelogs for the product here since I have launched ver 1.00 now on scratch.
+Hi!😃, Welcome to my Windows 10 Scratch Respitory, there will be changelogs for the product here since I have launched ver 1.00 now on scratch. Only major changes will be listed on the .sb3 file, the minor changes are on https://scratch.mit.edu/projects/1065792533/ .
